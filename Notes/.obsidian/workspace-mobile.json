@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "72381402eec6bcb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "99b7b788a16adecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbc13032abaf7cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java 8/Lambda Expression.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "961e57d4559aca67",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "38aea843d06ad4d4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTimeReverse"
+          }
+        }
+      },
+      {
+        "id": "4dca0971f4fa84aa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "54a575ad4d404386",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e73e08eb70ef5c67",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d6ecf723ca793e6e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7ad06076693d9076",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Java 8/Lambda Expression.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "08f4d34f17e32cd9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Java 8/Lambda Expression.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "512d46fe22fd70a7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Java 8/Lambda Expression.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "bbc13032abaf7cb3",
+  "lastOpenFiles": [
+    "Java 8/Functional Interface.md",
+    "Java 8/Java 8 features.md",
+    "Java 8/Lambda Expression.md",
+    "Java 8/Method Reference.md",
+    "2023-01-12.md",
+    "New features after Java 8.md"
+  ]
+}
