@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 8 Date and Time API.md",
+                "file": "Java 8/4. Method Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java 8 Date and Time API.md",
+                "file": "Java 8/4. Method Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java 8 Date and Time API.md",
+                "file": "Java 8/4. Method Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java 8 Date and Time API.md"
+                "file": "Java 8/4. Method Reference.md"
               }
             }
           }
@@ -147,5 +147,10 @@
     }
   },
   "active": "f22ececcb4eaef94",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Java 8/3. Lambda Expression.md",
+    "Java 8/2. Functional Interface.md",
+    "Java 8/1. Java 8 features.md",
+    "Java 8 Date and Time API.md"
+  ]
 }
