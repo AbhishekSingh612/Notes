@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 8/3. Lambda Expression.md",
+                "file": "3. Java 8/4. Method Reference.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "79a5c2ee64a52507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Collections/List.of vs Arrays.asList.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a693f24bd504bfd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Core Java/Exceptions in Java.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java 8/3. Lambda Expression.md",
+                "file": "1. Core Java/Exceptions in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java 8/3. Lambda Expression.md",
+                "file": "1. Core Java/Exceptions in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java 8/3. Lambda Expression.md"
+                "file": "1. Core Java/Exceptions in Java.md"
               }
             }
           }
@@ -147,12 +172,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97312a09aa4532ac",
+  "active": "a693f24bd504bfd3",
   "lastOpenFiles": [
-    "Java 8/2. Functional Interface.md",
-    "Java 8/3. Lambda Expression.md",
-    "Java 8/4. Method Reference.md",
-    "Java 8/1. Java 8 features.md",
-    "Java 8 Date and Time API.md"
+    "2. Collections/List.of vs Arrays.asList.md",
+    "3. Java 8/5. Stream API.md",
+    "3. Java 8/4. Method Reference.md",
+    "3. Java 8/3. Lambda Expression.md",
+    "3. Java 8/2. Functional Interface.md",
+    "3. Java 8/6. Java 8 Date and Time API.md",
+    "New features after Java 8.md",
+    "3. Java 8/1. Java 8 features.md"
   ]
 }
