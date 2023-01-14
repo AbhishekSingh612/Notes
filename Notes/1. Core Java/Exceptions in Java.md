@@ -185,7 +185,16 @@ public int getPlayerScore(String playerFile) {
  1. **Error hiding or Exception swallowing**: catching an error or exception, and then continuing without logging, processing, or reporting the error to other parts of the software
 	 1. Instead of empty catch block atleast write comment like "This exception will never happen"
 	 2. Instead of just printing stacktrace, log.error("Define the problem", e) so that we can debug later
-	 3. Avoid Losing actual cause of exception while rethrowing custom Exception instead wrap actual exception with your custom exception `catch(IOException e) { throws new CustomException(e); }`
+	 3. Avoid Losing actual cause of exception while rethrowing custom Exception instead wrap actual exception with your custom exception 
+	  ```java
+	  public class CustomException extends Exception{
+		  public CustomException(String message, Throwable cause){
+			  super(message, cause);
+		  }
+	  }
+	  //In catch block use 
+	  catch(IOException e) { throws new CustomException(e); }
+      ``` 
  2. Avoid return or throw in finally block
  3. Avoid using throw as goto 
 ## Reference
