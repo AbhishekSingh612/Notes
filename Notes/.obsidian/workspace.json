@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Core Java/Exceptions in Java.md",
-                "mode": "preview",
+                "file": "3. Java 8/5. Stream API.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Core Java/Exceptions in Java.md",
+                "file": "3. Java 8/5. Stream API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Core Java/Exceptions in Java.md",
+                "file": "3. Java 8/5. Stream API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Core Java/Exceptions in Java.md"
+                "file": "3. Java 8/5. Stream API.md"
               }
             }
           }
@@ -174,12 +174,13 @@
   },
   "active": "a693f24bd504bfd3",
   "lastOpenFiles": [
+    "3. Java 8/6. Java 8 Date and Time API.md",
     "2. Collections/List.of vs Arrays.asList.md",
+    "1. Core Java/Exceptions in Java.md",
     "3. Java 8/5. Stream API.md",
     "3. Java 8/4. Method Reference.md",
     "3. Java 8/3. Lambda Expression.md",
     "3. Java 8/2. Functional Interface.md",
-    "3. Java 8/6. Java 8 Date and Time API.md",
     "New features after Java 8.md",
     "3. Java 8/1. Java 8 features.md"
   ]

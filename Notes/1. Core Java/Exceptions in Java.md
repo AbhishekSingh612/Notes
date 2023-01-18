@@ -46,7 +46,7 @@ public class CustomCheckedException extends Exception {
 }
 
 //Custom Unchecked Exception Example
-public class CustomUncheckedException extends Exception { 
+public class CustomUncheckedException extends RuntimeException { 
 	public CustomUncheckedException(String message) {
 		super(message); 
 	} 
