@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "dee1701aad220708",
+        "id": "00076a376b0e97cb",
         "type": "tabs",
         "children": [
           {
-            "id": "97312a09aa4532ac",
+            "id": "dfc6b3edb5a2c0f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Java 8/4. Method Reference.md",
+                "file": "DSA/2. Sliding Window/1. Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79a5c2ee64a52507",
+            "id": "a188bb740261be48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Collections/List.of vs Arrays.asList.md",
+                "file": "DSA/Patterns.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a693f24bd504bfd3",
+            "id": "57bd8214e974ae71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Java 8/5. Stream API.md",
+                "file": "DSA/2. Sliding Window/3. Smallest Subarray with a given sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Java 8/5. Stream API.md",
+                "file": "DSA/2. Sliding Window/3. Smallest Subarray with a given sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Java 8/5. Stream API.md",
+                "file": "DSA/2. Sliding Window/3. Smallest Subarray with a given sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Java 8/5. Stream API.md"
+                "file": "DSA/2. Sliding Window/3. Smallest Subarray with a given sum.md"
               }
             }
           }
@@ -172,16 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a693f24bd504bfd3",
+  "active": "57bd8214e974ae71",
   "lastOpenFiles": [
-    "3. Java 8/6. Java 8 Date and Time API.md",
-    "2. Collections/List.of vs Arrays.asList.md",
-    "1. Core Java/Exceptions in Java.md",
-    "3. Java 8/5. Stream API.md",
-    "3. Java 8/4. Method Reference.md",
-    "3. Java 8/3. Lambda Expression.md",
-    "3. Java 8/2. Functional Interface.md",
-    "New features after Java 8.md",
-    "3. Java 8/1. Java 8 features.md"
+    "DSA/2. Sliding Window/2. Max Sum Subarray.md",
+    "DSA/2. Sliding Window/3. Smallest Subarray with a given sum.md",
+    "DSA/Patterns.md",
+    "DSA/2. Sliding Window/1. Notes.md",
+    "DSA/1. Two Pointers/1. Notes.md",
+    "Java/New features after Java 8.md",
+    "Java/3. Java 8/5. Stream API.md",
+    "Java/3. Java 8/6. Java 8 Date and Time API.md",
+    "Java/2. Collections/List.of vs Arrays.asList.md",
+    "Java/1. Core Java/Exceptions in Java.md"
   ]
 }
