@@ -1,14 +1,13 @@
-## Premium questions
 You can access premium question on lintcode.com
 
 ## Patterns
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
-## Pattern: Sliding Window
+## Pattern: [[Sliding Window Algorithm]]
 
 - [x] https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 (Blind)
-- [ ] https://leetcode.com/problems/minimum-size-subarray-sum/
-- [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+- [x] https://leetcode.com/problems/minimum-size-subarray-sum/
+- [x] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [ ] https://leetcode.com/problems/fruit-into-baskets/
 - [ ] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
 - [ ] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
@@ -26,6 +25,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/island-perimeter/
 - [ ] https://leetcode.com/problems/number-of-distinct-islands/
 - [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/
+
 ## Pattern: Two Pointers
 - [ ] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 - [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-array/

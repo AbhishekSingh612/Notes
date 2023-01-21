@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "00076a376b0e97cb",
+        "id": "d202eede5da9f0c7",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc6b3edb5a2c0f5",
+            "id": "9e8b8db7eb6d3057",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/2. Sliding Window/1. Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a188bb740261be48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57bd8214e974ae71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/2. Sliding Window/3. Smallest Subarray with a given sum.md",
+                "file": "DSA/2. Sliding Window/Problems/4. Fruit into baskets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Hard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/2. Sliding Window/3. Smallest Subarray with a given sum.md",
+                "file": "DSA/2. Sliding Window/Problems/4. Fruit into baskets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/2. Sliding Window/3. Smallest Subarray with a given sum.md",
+                "file": "DSA/2. Sliding Window/Problems/4. Fruit into baskets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/2. Sliding Window/3. Smallest Subarray with a given sum.md"
+                "file": "DSA/2. Sliding Window/Problems/4. Fruit into baskets.md"
               }
             }
           }
@@ -172,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57bd8214e974ae71",
+  "active": "9e8b8db7eb6d3057",
   "lastOpenFiles": [
-    "DSA/2. Sliding Window/2. Max Sum Subarray.md",
-    "DSA/2. Sliding Window/3. Smallest Subarray with a given sum.md",
-    "DSA/Patterns.md",
-    "DSA/2. Sliding Window/1. Notes.md",
-    "DSA/1. Two Pointers/1. Notes.md",
+    "DSA/2. Sliding Window/Problems/4. Fruit into baskets.md",
+    "paste_link_here.md",
+    "DSA/2. Sliding Window/Problems/3. Longest substring with at most k distinct characters.md",
+    "DSA/DSA Questions Pattern.md",
+    "DSA/2. Sliding Window/Problems/2. Minimum size subarray sum.md",
+    "DSA/2. Sliding Window/Problems/1. Max Sum Subarray.md",
+    "Templates/Problem Template.md",
+    "DSA/2. Sliding Window/Sliding Window Algorithm.md",
     "Java/New features after Java 8.md",
-    "Java/3. Java 8/5. Stream API.md",
-    "Java/3. Java 8/6. Java 8 Date and Time API.md",
-    "Java/2. Collections/List.of vs Arrays.asList.md",
-    "Java/1. Core Java/Exceptions in Java.md"
+    "Java/3. Java 8/7. Optional class.md"
   ]
 }

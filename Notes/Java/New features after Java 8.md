@@ -19,3 +19,5 @@ After Java 8, several new features and improvements have been introduced in the 
 8. Java 16 introduced the "pattern matching for instanceof" feature, which allows developers to simplify their type-checking logic.
 
 _It's important to note that not all these features are widely used in industry and some of them may not be supported by all the JVM vendors and tools, which means compatibility issues may arise._
+
+Tags: #java
