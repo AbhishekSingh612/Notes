@@ -11,8 +11,12 @@
             "id": "fc1e1ba80672a5c5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/1. Core Java/Inheritance.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -67,9 +71,27 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "ed421b0d7985f3d4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bb1d3521330021ea",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "right": {
     "id": "d6ecf723ca793e6e",
@@ -81,6 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Java/1. Core Java/Inheritance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Java/1. Core Java/Inheritance.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +131,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Java/1. Core Java/Inheritance.md"
+          }
         }
       }
     ],
@@ -115,15 +141,15 @@
   },
   "active": "fc1e1ba80672a5c5",
   "lastOpenFiles": [
+    "Java/1. Core Java/Abstraction.md",
+    "Java/1. Core Java/Encapsulation.md",
+    "Java/1. Core Java/OOPS.md",
+    "Java/1. Core Java/Core Java.md",
     "DSA/2. Sliding Window/Problems/1. Max Sum Subarray.md",
     "Java/3. Java 8/1. Java 8 features.md",
     "Java/3. Java 8/3. Lambda Expression.md",
     "3..md",
     "3.℅20Lambda℅20Expression..md",
-    "Java/3. Java 8/5. Stream API.md",
-    "Java/3. Java 8/10. abc.md",
-    "Java/3. Java 8/7. Optional class.md",
-    "4. Method references.md",
-    "Method references.md"
+    "Java/3. Java 8/5. Stream API.md"
   ]
 }
