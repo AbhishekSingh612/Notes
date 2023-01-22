@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/1. Core Java/Inheritance.md",
-                "mode": "preview",
+                "file": "Java/1. Core Java/Core Java.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Java/1. Core Java/Inheritance.md",
+            "file": "Java/1. Core Java/Core Java.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Java/1. Core Java/Inheritance.md",
+            "file": "Java/1. Core Java/Core Java.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Java/1. Core Java/Inheritance.md"
+            "file": "Java/1. Core Java/Core Java.md"
           }
         }
       }
@@ -141,6 +141,7 @@
   },
   "active": "fc1e1ba80672a5c5",
   "lastOpenFiles": [
+    "Java/1. Core Java/Inheritance.md",
     "Java/1. Core Java/Abstraction.md",
     "Java/1. Core Java/Encapsulation.md",
     "Java/1. Core Java/OOPS.md",
@@ -149,7 +150,6 @@
     "Java/3. Java 8/1. Java 8 features.md",
     "Java/3. Java 8/3. Lambda Expression.md",
     "3..md",
-    "3.℅20Lambda℅20Expression..md",
-    "Java/3. Java 8/5. Stream API.md"
+    "3.℅20Lambda℅20Expression..md"
   ]
 }

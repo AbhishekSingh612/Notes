@@ -5,6 +5,9 @@
 - Array
 - Regex
 - [[Exceptions in Java]]
-- Inner Class #TODO
+- Nested Class #TODO
 - MultiThreading #TODO
 - I/O #TODO
+- JVM Internal
+- Generics
+- Enum
