@@ -2,5 +2,7 @@
   "dataview",
   "templater-obsidian",
   "buttons",
-  "metadata-menu"
+  "metadata-menu",
+  "obsidian-excalidraw-plugin",
+  "make-md"
 ]

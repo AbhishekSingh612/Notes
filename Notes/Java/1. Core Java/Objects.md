@@ -1,0 +1,6 @@
+-   An object in Java is a **basic unit** of object-oriented programming (OOP).
+-   It **represents a real-world entity**, such as a pen, chair, or computer.
+-   An object is defined as an instance of a class, which is a template or blueprint for creating objects.
+-   Objects are **created at runtime**, meaning they are not created until the program is executed.
+-   Each object has its own **state**, which refers to the data stored within the object.
+-   Each object also has its own **behavior**, which refers to the actions or processes that the object can perform

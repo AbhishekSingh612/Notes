@@ -1,0 +1,1 @@
+Classes are blue-print or template using which objects are created. It contains collections of common properties and behavior that its object can have. 

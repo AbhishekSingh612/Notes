@@ -1,1 +1,1 @@
-[[List.of vs Arrays.asList]]
+- [[List.of vs Arrays.asList]]

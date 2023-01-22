@@ -70,4 +70,4 @@ There are several important functional interfaces in Java, but some of the most 
 	- `BiPredicate<T,U>` accepts 2 inputs and produce boolean
 
 
-Tags: #java #java8 #functionalInterface
+Tags:: #java #java8 #functionalInterface

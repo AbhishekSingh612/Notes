@@ -2,9 +2,9 @@
 
 After Java 8, several new features and improvements have been introduced in the Java language:
 
-1. Java 9 introduced the Java Platform Module System (JPMS), which improves the organization of the JDK and allows for more fine-grained control over dependencies.
+1. Java 9 introduced the **Java Platform Module System (JPMS)**, which improves the organization of the JDK and allows for more fine-grained control over dependencies.
 
-2. Java 10 introduced local variable type inference, which allows developers to use the "var" keyword to infer the type of a local variable based on the initializer expression.
+2. Java 10 introduced **local variable type inference,** which allows developers to use the **"var" keyword** to infer the type of a local variable based on the initializer expression.
 
 3. Java 11 removed the Java EE and CORBA modules from the JDK and made the HTTP client, JAXB, and the JavaFX modules available as separate modules. It also introduced the ability to launch single-file source-code programs.
 
@@ -18,6 +18,5 @@ After Java 8, several new features and improvements have been introduced in the 
 
 8. Java 16 introduced the "pattern matching for instanceof" feature, which allows developers to simplify their type-checking logic.
 
-_It's important to note that not all these features are widely used in industry and some of them may not be supported by all the JVM vendors and tools, which means compatibility issues may arise._
 
 Tags: #java

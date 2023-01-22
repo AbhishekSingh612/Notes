@@ -11,8 +11,12 @@
             "id": "8a4643304fedbbaa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/1. Core Java/OOPS.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -60,8 +64,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "eb13bd558d42903e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/1. Core Java/OOPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/1. Core Java/OOPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/1. Core Java/OOPS.md"
+              }
             }
           }
         ],
@@ -137,20 +154,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "8a4643304fedbbaa",
   "lastOpenFiles": [
-    "DSA/2. Sliding Window/Problems/7. Max consecutive ones iii.md",
-    "paste_link_here.md",
-    "Home.md",
-    "DSA/DSA.md",
-    "Java/Java.md",
-    "AWS/AWS.md",
-    "Java/2. Collections/Collections.md",
+    "Java/1. Core Java/Class.md",
+    "Java/1. Core Java/Objects.md",
+    "Java/1. Core Java/OOPS.md",
     "Java/1. Core Java/Core Java.md",
-    "DSA/2. Sliding Window/Problems/1. Max Sum Subarray.md",
-    "DSA/2. Sliding Window/Problems/6. Longest repeating character replacement.md"
+    "Java/New features after Java 8.md",
+    "Java/3. Java 8/Java 8 features.md",
+    "Java/3. Java 8/Functional Interface.md",
+    "Java/3. Java 8/Lambda Expression.md",
+    "Java/3. Java 8/Method Reference.md",
+    "Java/3. Java 8/Stream API.md"
   ]
 }

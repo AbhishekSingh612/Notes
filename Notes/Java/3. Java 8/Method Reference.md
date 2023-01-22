@@ -59,4 +59,4 @@ Student[] students = names.stream()
 Method references can be used to simplify the code, making it more readable and maintainable. They are widely used in functional programming with Streams, Iterators and other functional interfaces.
 
 
-Tags: #java #java8 #methodReference #lambdaExpressions 
+Tags:: #java #java8 #methodReference #lambdaExpressions 
