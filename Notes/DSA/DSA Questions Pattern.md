@@ -8,8 +8,8 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [x] https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 (Blind)
 - [x] https://leetcode.com/problems/minimum-size-subarray-sum/
 - [x] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
-- [ ] https://leetcode.com/problems/fruit-into-baskets/
-- [ ] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
+- [x] https://leetcode.com/problems/fruit-into-baskets/
+- [x] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
 - [ ] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
 - [ ] https://leetcode.com/problems/max-consecutive-ones-iii/
 - [ ] https://leetcode.com/problems/permutation-in-string/

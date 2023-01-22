@@ -20,10 +20,10 @@ for(int right=0; right < arr.length; right++) {
 
 ## Problems: 
 
-- [ ] [[1. Max Sum Subarray]]
-- [ ] [[2. Minimum size subarray sum]]
-- [ ] [[3. Longest substring with at most k distinct characters]]
-- [ ] [[4. Fruit into baskets]]
+- [x] [[1. Max Sum Subarray]]
+- [x] [[2. Minimum size subarray sum]]
+- [x] [[3. Longest substring with at most k distinct characters]]
+- [x] [[4. Fruit into baskets]]
 - [ ] [[5. Longest substring without repeating characters ]]
 - [ ] [[6. Longest repeating character replacement ]]
 - [ ] [[7. Max consecutive ones iii]]

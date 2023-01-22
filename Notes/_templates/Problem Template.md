@@ -1,6 +1,10 @@
+---
 Date: {{date}}
-Tags: 
-Difficulty: #Easy #Medium #Hard
+Tags: dsa
+fileClass: Problem
+---
+Topics:: 
+Difficulty:: 
 ## Problem: 
 
 
