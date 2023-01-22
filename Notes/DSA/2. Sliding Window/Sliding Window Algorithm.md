@@ -9,7 +9,9 @@ for(int right=0; right < arr.length; right++) {
 // while(right < length) also possible with right++ in the end of loop
 
 	taking element at right into window
-	
+
+	// while is used to shrink
+	// if is used to slide
 	while or if ( condition related to window size){
 		some operation
 		moving left pointer;
