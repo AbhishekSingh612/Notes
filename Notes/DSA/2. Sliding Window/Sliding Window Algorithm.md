@@ -30,6 +30,6 @@ for(int right=0; right < arr.length; right++) {
 - [ ] [[6. Longest repeating character replacement ]]
 - [ ] [[7. Max consecutive ones iii]]
 - [ ] [[8. Permutation in string]]
-- [ ] [[9. Find all anagrams in a string]]
+- [ ] [[9. Find all anagrams in a String]]
 - [ ] [[10. Minimum window substring ]]
-- [ ] [[11. Substring with concatenation of all words]]
+- [ ] [[TEst 2023-01-23]]

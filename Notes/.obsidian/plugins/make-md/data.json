@@ -24,14 +24,17 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "DSA/2. Sliding Window/Problems",
-      "Java",
-      "Java/1. Core Java"
+      "Notes",
+      "_templates",
+      "AWS",
+      "DSA",
+      "DSA/2. Sliding Window",
+      "DSA/2. Sliding Window/Problems"
     ]
   },
   "expandedSpaces": [
-    "/",
     null,
+    "/",
     null
   ],
   "folderRank": {

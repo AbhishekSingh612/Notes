@@ -10,9 +10,9 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [x] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [x] https://leetcode.com/problems/fruit-into-baskets/
 - [x] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
-- [ ] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
-- [ ] https://leetcode.com/problems/max-consecutive-ones-iii/
-- [ ] https://leetcode.com/problems/permutation-in-string/
+- [x] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
+- [x] https://leetcode.com/problems/max-consecutive-ones-iii/
+- [x] https://leetcode.com/problems/permutation-in-string/
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string/
 - [ ] https://leetcode.com/problems/minimum-window-substring/ (Blind)
 - [ ] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
