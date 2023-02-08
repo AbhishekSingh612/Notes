@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/2. Sliding Window/Problems/9. Find all anagrams in a String.md",
+                "file": "AWS/AWS Lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/2. Sliding Window/Problems/9. Find all anagrams in a String.md",
+                "file": "AWS/AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/2. Sliding Window/Problems/9. Find all anagrams in a String.md",
+                "file": "AWS/AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/2. Sliding Window/Problems/9. Find all anagrams in a String.md"
+                "file": "AWS/AWS Lambda.md"
               }
             }
           }
@@ -158,8 +158,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "31c490551d1b2c67",
+  "active": "d1ece444fa49f073",
   "lastOpenFiles": [
+    "DSA/2. Sliding Window/Problems/9. Find all anagrams in a String.md",
     "DSA/2. Sliding Window/Problems/8. Permutation in string.md",
     "DSA/2. Sliding Window/Sliding Window Algorithm.md",
     "DSA/new Problem test.md",
@@ -168,7 +169,6 @@
     "UntitledTest.md",
     "DSA/UntitledTest.md",
     "_templates/Test.md",
-    "DSA/2. Sliding Window/Problems/9. Find all anagrams in a String.md",
     "DSA/2. Sliding Window/Problems/10. Minimum window substring.md"
   ]
 }
