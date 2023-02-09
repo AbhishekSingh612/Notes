@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Lambda.md",
+                "file": "DSA/2. Sliding Window/Sliding Window Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 365.5110321044922
   },
   "right": {
     "id": "649b646bf69c83c2",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Lambda.md",
+                "file": "DSA/2. Sliding Window/Sliding Window Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Lambda.md",
+                "file": "DSA/2. Sliding Window/Sliding Window Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS Lambda.md"
+                "file": "DSA/2. Sliding Window/Sliding Window Algorithm.md"
               }
             }
           }
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,15 +159,15 @@
   },
   "active": "d1ece444fa49f073",
   "lastOpenFiles": [
+    "DSA/2. Sliding Window/Problems/11. Substring with concatenation of all words.md",
+    "DSA/2. Sliding Window/Sliding Window Algorithm.md",
+    "DSA/2. Sliding Window/Problems/10. Minimum window substring.md",
     "DSA/2. Sliding Window/Problems/9. Find all anagrams in a String.md",
     "DSA/2. Sliding Window/Problems/8. Permutation in string.md",
-    "DSA/2. Sliding Window/Sliding Window Algorithm.md",
-    "DSA/new Problem test.md",
-    "_templates/ff Problem Templater.md",
-    "_templates/ff Create New Note.md",
-    "UntitledTest.md",
-    "DSA/UntitledTest.md",
-    "_templates/Test.md",
-    "DSA/2. Sliding Window/Problems/10. Minimum window substring.md"
+    "DSA/2. Sliding Window/Problems/7. Max consecutive ones iii.md",
+    "DSA/2. Sliding Window/Problems/6. Longest repeating character replacement.md",
+    "DSA/2. Sliding Window/Problems/5. Longest substring without repeating characters.md",
+    "DSA/2. Sliding Window/Problems/4. Fruit into baskets.md",
+    "DSA/2. Sliding Window/Problems/3. Longest substring with at most k distinct characters.md"
   ]
 }
