@@ -3,7 +3,7 @@
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
-  "classFilesPath": "_fileClass/",
+  "classFilesPath": "_resource/_fileClass/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
   "settingsVersion": 3,
