@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "978e47a7b4b71720",
+        "id": "f11d5f4c828ce2c4",
         "type": "tabs",
         "children": [
           {
-            "id": "fb12616a35e8ba21",
+            "id": "7d843633e7d8c727",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DSA/2. Sliding Window/Practice/Substring of size `K` with distinct Characters.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/2. Sliding Window/Practice/Substring of size `K` with distinct Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/2. Sliding Window/Practice/Substring of size `K` with distinct Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/2. Sliding Window/Practice/Substring of size `K` with distinct Characters.md"
+              }
             }
           }
         ],
@@ -149,17 +157,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "fb12616a35e8ba21",
+  "active": "7d843633e7d8c727",
   "lastOpenFiles": [
-    "DSA/2. Sliding Window/Problems/11. Substring with Concatenation of All Words.md",
-    "DSA/1. Two Pointers/Two pointers Algorithm.md",
-    "DSA/2. Sliding Window/Problems/8. Permutation in string.md",
-    "DSA/2. Sliding Window/Problems/10. Minimum window substring.md",
-    "DSA/2. Sliding Window/Problems/9. Find all anagrams in a String.md",
-    "_resource/_templates/ff Solution.md",
-    "_resource/_templates/Problem Template.md",
-    "_resource/_templates/Algorithm Notes.md",
-    "_resource/_templates/ff Problem Templater.md",
-    "_resource/_templates/ff Create New Note.md"
+    "DSA/2. Sliding Window/Problems/5. Longest substring without repeating characters.md",
+    "DSA/2. Sliding Window/Problems/6. Longest repeating character replacement.md",
+    "DSA/2. Sliding Window/Problems/4. Fruit into baskets.md",
+    "DSA/2. Sliding Window/Problems/3. Longest substring with at most k distinct characters.md",
+    "DSA/2. Sliding Window/Practice/Contains Duplicate II.md",
+    "DSA/2. Sliding Window/Practice/Maximum Average Subarray I.md",
+    "DSA/2. Sliding Window/Sliding Window Algorithm.md",
+    "DSA/2. Sliding Window/2. Sliding Window.md",
+    "DSA/2. Sliding Window/Problems/1. Max Sum Subarray.md",
+    "DSA/2. Sliding Window/Practice/Substring of size `K` with distinct Characters.md"
   ]
 }
