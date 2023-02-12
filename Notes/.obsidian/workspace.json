@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7b01b1a59b9c8f56",
+        "id": "978e47a7b4b71720",
         "type": "tabs",
         "children": [
           {
-            "id": "c79e45f0466dfc69",
+            "id": "fb12616a35e8ba21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/2. Sliding Window/Problems/11. Substring with Concatenation of All Words.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/2. Sliding Window/Problems/11. Substring with Concatenation of All Words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/2. Sliding Window/Problems/11. Substring with Concatenation of All Words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/2. Sliding Window/Problems/11. Substring with Concatenation of All Words.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,10 +149,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "c79e45f0466dfc69",
+  "active": "fb12616a35e8ba21",
   "lastOpenFiles": [
-    "DSA/1. Two Pointers/Two pointers Algorithm.md",
     "DSA/2. Sliding Window/Problems/11. Substring with Concatenation of All Words.md",
+    "DSA/1. Two Pointers/Two pointers Algorithm.md",
     "DSA/2. Sliding Window/Problems/8. Permutation in string.md",
     "DSA/2. Sliding Window/Problems/10. Minimum window substring.md",
     "DSA/2. Sliding Window/Problems/9. Find all anagrams in a String.md",
