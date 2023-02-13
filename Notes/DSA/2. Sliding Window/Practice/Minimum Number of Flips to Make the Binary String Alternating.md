@@ -1,6 +1,10 @@
 [Leetcode](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)
 
-Notes:
+Notes: 
+- Rotating the binary string usually needs concatenation with sliding window
+- We can also skip concatenation by iteration 2 times the len of string and using i%len as index while accessing the character of string
+- Here we are generating the valid character of the Binary string if it started with 0 or with 1 after which are counting how many flips will be needed for each in the current window
+- Also after each window we are calculating the min 
 
 ```java
 public int minFlips(String s) {
