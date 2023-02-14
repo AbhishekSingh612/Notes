@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f11d5f4c828ce2c4",
+        "id": "f5a213eadb26d683",
         "type": "tabs",
         "children": [
           {
-            "id": "7d843633e7d8c727",
+            "id": "7746edebf858307c",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
-              "state": {
-                "type": "folder",
-                "folder": "DSA/1. Two Pointers"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -152,7 +149,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "7d843633e7d8c727",
+  "active": "7746edebf858307c",
   "lastOpenFiles": [
     "4. 3Sum.md",
     "3. Squares of a Sorted Array.md",
@@ -161,8 +158,8 @@
     "DSA/1. Two Pointers/Untitled.md",
     "DSA/1. Two Pointers/Two pointers Algorithm.md",
     "DSA/Untitled.md",
-    "DSA/2. Sliding Window/Practice/Longest Substring with At Least K Repeating Characters.md",
-    "DSA/2. Sliding Window/Problems/3. Longest substring with at most k distinct characters.md",
-    "DSA/2. Sliding Window/Problems/5. Longest substring without repeating characters.md"
+    "DSA/4. Sliding Window/Practice/Longest Substring with At Least K Repeating Characters.md",
+    "DSA/4. Sliding Window/Problems/3. Longest substring with at most k distinct characters.md",
+    "DSA/4. Sliding Window/Problems/5. Longest substring without repeating characters.md"
   ]
 }
