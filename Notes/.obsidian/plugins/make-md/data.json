@@ -25,9 +25,10 @@
   "expandedFolders": {
     "/": [
       "Notes",
-      "DSA/2. Sliding Window",
       "DSA",
-      "_resource/_templates"
+      "_resource/_templates",
+      "DSA/2. Sliding Window/Problems",
+      "DSA/1. Two Pointers"
     ]
   },
   "expandedSpaces": [
