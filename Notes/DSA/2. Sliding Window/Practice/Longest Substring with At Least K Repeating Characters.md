@@ -5,6 +5,7 @@ Notes:
 - When trying to use sliding window here I realized there is no condition based on which I can shrink the window as we don't know whether invalid string will become valid while we expand our window 
 - So I added additional condition to the window that it must contain only required number of unique character, Now we can shrink our window based on this condition 
 - And In the end our result will be max of all the results we get from having 1 unique to 26 unique character 
+- When we add this additional condition the question becomes similar to [[3. Longest substring with at most k distinct characters]]
 
 ```java
 public int longestSubstring(String s, int k) {

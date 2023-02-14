@@ -154,15 +154,15 @@
   },
   "active": "7d843633e7d8c727",
   "lastOpenFiles": [
-    "DSA/2. Sliding Window/Sliding Window Algorithm.md",
     "DSA/2. Sliding Window/Practice/Longest Substring with At Least K Repeating Characters.md",
-    "DSA/2. Sliding Window/Practice/Get Equal Substrings Within Budget.md",
-    "DSA/2. Sliding Window/Practice/Minimum Number of Flips to Make the Binary String Alternating.md",
-    "DSA/2. Sliding Window/Practice/Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold.md",
-    "DSA/2. Sliding Window/Practice/Minimum recolors to get k consecutive black blocks.md",
-    "DSA/2. Sliding Window/Practice/Substring of size `K` with distinct Characters.md",
+    "DSA/2. Sliding Window/Problems/3. Longest substring with at most k distinct characters.md",
     "DSA/2. Sliding Window/Problems/5. Longest substring without repeating characters.md",
     "DSA/2. Sliding Window/Problems/6. Longest repeating character replacement.md",
-    "DSA/2. Sliding Window/Problems/4. Fruit into baskets.md"
+    "DSA/2. Sliding Window/Problems/10. Minimum window substring.md",
+    "DSA/2. Sliding Window/Problems/8. Permutation in string.md",
+    "DSA/2. Sliding Window/Problems/7. Max consecutive ones iii.md",
+    "DSA/2. Sliding Window/Problems/11. Substring with Concatenation of All Words.md",
+    "DSA/2. Sliding Window/Sliding Window Algorithm.md",
+    "DSA/2. Sliding Window/Practice/Get Equal Substrings Within Budget.md"
   ]
 }
