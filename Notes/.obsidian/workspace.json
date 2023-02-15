@@ -4,15 +4,38 @@
     "type": "split",
     "children": [
       {
+        "id": "c931328612d338d4",
+        "type": "tabs",
+        "dimension": 62.87202380952381,
+        "children": [
+          {
+            "id": "8ad7dc1cb1360782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "f5a213eadb26d683",
         "type": "tabs",
+        "dimension": 37.12797619047619,
         "children": [
           {
             "id": "7746edebf858307c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "make-folder-view",
+              "state": {
+                "type": "folder",
+                "folder": "DSA/1. Two Pointers"
+              }
             }
           }
         ]
@@ -90,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md"
+              }
             }
           }
         ],
@@ -135,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,17 +177,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "7746edebf858307c",
+  "active": "8ad7dc1cb1360782",
   "lastOpenFiles": [
-    "4. 3Sum.md",
-    "3. Squares of a Sorted Array.md",
+    "Untitled.md",
+    "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md",
+    "Home.md",
     "DSA/1. Two Pointers/Problems/2. Remove Duplicates from Sorted Array.md",
     "DSA/1. Two Pointers/Problems/1. Two Sum II - Input Array Is Sorted.md",
+    "DSA/4. Sliding Window/2. Sliding Window.md",
+    "4. 3Sum.md",
     "DSA/1. Two Pointers/Untitled.md",
     "DSA/1. Two Pointers/Two pointers Algorithm.md",
-    "DSA/Untitled.md",
-    "DSA/4. Sliding Window/Practice/Longest Substring with At Least K Repeating Characters.md",
-    "DSA/4. Sliding Window/Problems/3. Longest substring with at most k distinct characters.md",
-    "DSA/4. Sliding Window/Problems/5. Longest substring without repeating characters.md"
+    "DSA/Untitled.md"
   ]
 }
