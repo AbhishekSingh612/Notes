@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md",
+                "file": "DSA/1. Two Pointers/Problems/5. 3Sum Closest.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md",
+                "file": "DSA/1. Two Pointers/Problems/5. 3Sum Closest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md",
+                "file": "DSA/1. Two Pointers/Problems/5. 3Sum Closest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md"
+                "file": "DSA/1. Two Pointers/Problems/5. 3Sum Closest.md"
               }
             }
           }
@@ -179,15 +179,15 @@
   },
   "active": "8ad7dc1cb1360782",
   "lastOpenFiles": [
-    "Untitled.md",
+    "DSA/1. Two Pointers/Problems/4. 3Sum.md",
+    "DSA/1. Two Pointers/Problems/5. 3Sum Closest.md",
     "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md",
-    "Home.md",
     "DSA/1. Two Pointers/Problems/2. Remove Duplicates from Sorted Array.md",
     "DSA/1. Two Pointers/Problems/1. Two Sum II - Input Array Is Sorted.md",
+    "Untitled.md",
+    "Home.md",
     "DSA/4. Sliding Window/2. Sliding Window.md",
-    "4. 3Sum.md",
     "DSA/1. Two Pointers/Untitled.md",
-    "DSA/1. Two Pointers/Two pointers Algorithm.md",
-    "DSA/Untitled.md"
+    "DSA/1. Two Pointers/Two pointers Algorithm.md"
   ]
 }
