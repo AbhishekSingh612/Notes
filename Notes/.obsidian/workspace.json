@@ -6,7 +6,6 @@
       {
         "id": "c931328612d338d4",
         "type": "tabs",
-        "dimension": 62.87202380952381,
         "children": [
           {
             "id": "8ad7dc1cb1360782",
@@ -14,27 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/8. Sort Colors.md",
+                "file": "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f5a213eadb26d683",
-        "type": "tabs",
-        "dimension": 37.12797619047619,
-        "children": [
-          {
-            "id": "7746edebf858307c",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "type": "folder",
-                "folder": "DSA/1. Two Pointers"
               }
             }
           }
@@ -113,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/8. Sort Colors.md",
+                "file": "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/8. Sort Colors.md",
+                "file": "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/8. Sort Colors.md"
+                "file": "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md"
               }
             }
           }
@@ -179,15 +160,15 @@
   },
   "active": "8ad7dc1cb1360782",
   "lastOpenFiles": [
-    "DSA/1. Two Pointers/Problems/8. Sort Colors.md",
+    "DSA/1. Two Pointers/Problems/10. Backspace String Compare.md",
+    "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
+    "DSA/1. Two Pointers/Problems/9. 4Sum.md",
     "DSA/1. Two Pointers/Problems/7. Subarray Product Less Than K.md",
-    "DSA/1. Two Pointers/Problems/6. 3Sum Smaller.md",
-    "DSA/1. Two Pointers/Problems/5. 3Sum Closest.md",
-    "DSA/1. Two Pointers/Problems/4. 3Sum.md",
-    "DSA/1. Two Pointers/Problems/3. Squares of a Sorted Array.md",
-    "DSA/1. Two Pointers/Problems/2. Remove Duplicates from Sorted Array.md",
-    "DSA/1. Two Pointers/Problems/1. Two Sum II - Input Array Is Sorted.md",
     "Untitled.md",
-    "Home.md"
+    "DSA/1. Two Pointers/Problems/8. Sort Colors.md",
+    "DSA/4. Sliding Window/Problems/11. Substring with Concatenation of All Words.md",
+    "DSA/4. Sliding Window/Problems/2. Minimum size subarray sum.md",
+    "DSA/4. Sliding Window/Problems/3. Longest substring with at most k distinct characters.md",
+    "DSA/4. Sliding Window/Problems/1. Max Sum Subarray.md"
   ]
 }
