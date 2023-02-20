@@ -25,11 +25,15 @@
   "expandedFolders": {
     "/": [
       "Notes",
-      "DSA",
       "_resource/_templates",
       "DSA/2. Sliding Window/Problems",
-      "DSA/1. Two Pointers",
-      "DSA/1. Two Pointers/Practice"
+      "DSA/1. Two Pointers/Problems",
+      "/",
+      "_resource/_images",
+      "Java/1. Core Java",
+      "DSA",
+      "DSA/5. Merge Intervals",
+      "DSA/5. Merge Intervals/Problems"
     ]
   },
   "expandedSpaces": [

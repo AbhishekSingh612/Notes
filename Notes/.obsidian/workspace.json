@@ -6,16 +6,34 @@
       {
         "id": "c931328612d338d4",
         "type": "tabs",
+        "dimension": 71.85405807892778,
         "children": [
           {
             "id": "8ad7dc1cb1360782",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "DSA/1. Two Pointers/Practice/2. Boats to Save People.md",
-                "mode": "source",
-                "source": false
+                "type": "folder",
+                "folder": "DSA/5. Merge Intervals"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "273c38c39f07c0c3",
+        "type": "tabs",
+        "dimension": 28.145941921072225,
+        "children": [
+          {
+            "id": "04a279a26e25acff",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "type": "folder",
+                "folder": "DSA"
               }
             }
           }
@@ -94,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/1. Two Pointers/Practice/2. Boats to Save People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/1. Two Pointers/Practice/2. Boats to Save People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/1. Two Pointers/Practice/2. Boats to Save People.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,15 +174,15 @@
   },
   "active": "8ad7dc1cb1360782",
   "lastOpenFiles": [
-    "Home.md",
-    "DSA/1. Two Pointers/Practice/2. Boats to Save People.md",
-    "DSA/1. Two Pointers/Problems/6. 3Sum Smaller.md",
-    "DSA/1. Two Pointers/Problems/7. Subarray Product Less Than K.md",
-    "DSA/1. Two Pointers/Practice/1. Trapping rain water.md",
-    "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
-    "DSA/1. Two Pointers/Problems/10. Backspace String Compare.md",
-    "DSA/1. Two Pointers/Problems/9. 4Sum.md",
-    "DSA/1. Two Pointers/Problems/8. Sort Colors.md",
-    "DSA/1. Two Pointers/Problems/5. 3Sum Closest.md"
+    "DSA/5. Merge Intervals/Problems/1. Merge Intervals.md",
+    "Excalidraw/Drawing 2023-02-20 22.05.10.excalidraw.md",
+    "Java/1. Core Java/Inheritance.md",
+    "Java/1. Core Java/Abstraction.md",
+    "Java/1. Core Java/Class.md",
+    "Java/1. Core Java/Objects.md",
+    "Java/1. Core Java/OOPS.md",
+    "_resource/_images/Pasted image 20230122183516.png",
+    "_resource/_images/mergeintervals.png",
+    "DSA/Untitled.md"
   ]
 }
