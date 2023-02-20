@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
+                "file": "DSA/1. Two Pointers/Practice/2. Boats to Save People.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
+                "file": "DSA/1. Two Pointers/Practice/2. Boats to Save People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
+                "file": "DSA/1. Two Pointers/Practice/2. Boats to Save People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md"
+                "file": "DSA/1. Two Pointers/Practice/2. Boats to Save People.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "8ad7dc1cb1360782",
   "lastOpenFiles": [
-    "DSA/1. Two Pointers/Problems/10. Backspace String Compare.md",
-    "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
-    "DSA/1. Two Pointers/Problems/9. 4Sum.md",
+    "Home.md",
+    "DSA/1. Two Pointers/Practice/2. Boats to Save People.md",
+    "DSA/1. Two Pointers/Problems/6. 3Sum Smaller.md",
     "DSA/1. Two Pointers/Problems/7. Subarray Product Less Than K.md",
-    "Untitled.md",
+    "DSA/1. Two Pointers/Practice/1. Trapping rain water.md",
+    "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
+    "DSA/1. Two Pointers/Problems/10. Backspace String Compare.md",
+    "DSA/1. Two Pointers/Problems/9. 4Sum.md",
     "DSA/1. Two Pointers/Problems/8. Sort Colors.md",
-    "DSA/4. Sliding Window/Problems/11. Substring with Concatenation of All Words.md",
-    "DSA/4. Sliding Window/Problems/2. Minimum size subarray sum.md",
-    "DSA/4. Sliding Window/Problems/3. Longest substring with at most k distinct characters.md",
-    "DSA/4. Sliding Window/Problems/1. Max Sum Subarray.md"
+    "DSA/1. Two Pointers/Problems/5. 3Sum Closest.md"
   ]
 }
