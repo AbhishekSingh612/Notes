@@ -12,10 +12,11 @@
             "id": "8ad7dc1cb1360782",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "type": "folder",
-                "folder": "DSA/5. Merge Intervals"
+                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -112,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md"
+              }
             }
           }
         ],
