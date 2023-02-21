@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "104b7dde4f12dca7",
+        "id": "dccc181a366418ff",
         "type": "tabs",
         "children": [
           {
-            "id": "34fcc883d583afa4",
+            "id": "c599432a079eccad",
             "type": "leaf",
             "state": {
               "type": "make-folder-view",
@@ -153,17 +153,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "34fcc883d583afa4",
+  "active": "c599432a079eccad",
   "lastOpenFiles": [
-    "_resource/Excalidraw/Pasted image 20230220221214.png",
     "_resources/Exali.md",
+    "_resource/Excalidraw/Drawing 2023-02-21 19.22.28.excalidraw.md",
+    "_resource/Excalidraw/Pasted image 20230220221214.png",
     "DSA/5. Merge Intervals/Problems/1. Merge Intervals.md",
     "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
     "_resource/Excalidraw/Drawing 2023-02-21 19.07.13.excalidraw.md",
     "_resource/Excalidraw/Drawing 2023-01-22 18.28.37.excalidraw.md",
     "_resource/Excalidraw/Drawing 2023-02-21 10.43.52.excalidraw.md",
     "_resource/Excalidraw/Drawing 2023-02-20 22.05.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-21 19.06.24.excalidraw.md",
-    "_resource/_images/Pasted image 20230221110223.png"
+    "Excalidraw/Drawing 2023-02-21 19.06.24.excalidraw.md"
   ]
 }
