@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dccc181a366418ff",
+        "id": "8c144f6528b9741b",
         "type": "tabs",
         "children": [
           {
-            "id": "c599432a079eccad",
+            "id": "9e0872897db773a1",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "type": "folder",
-                "folder": "DSA/5. Merge Intervals"
+                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md"
+              }
             }
           }
         ],
@@ -153,8 +158,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "eb13bd558d42903e",
+  "active": "9e0872897db773a1",
   "lastOpenFiles": [
+    "_resource/Excalidraw/Drawing 2023-02-21 19.34.01.excalidraw.md",
+    "_resource/Excalidraw/Drawing 2023-02-21 19.33.34.excalidraw.md",
     "_resources/Exali.md",
     "_resource/Excalidraw/Drawing 2023-02-21 19.22.28.excalidraw.md",
     "_resource/_images/Pasted image 20230220221214.png",
@@ -162,8 +169,6 @@
     "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
     "_resource/Excalidraw/Drawing 2023-02-21 19.07.13.excalidraw.md",
     "_resource/Excalidraw/Drawing 2023-01-22 18.28.37.excalidraw.md",
-    "_resource/Excalidraw/Drawing 2023-02-21 10.43.52.excalidraw.md",
-    "_resource/Excalidraw/Drawing 2023-02-20 22.05.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-21 19.06.24.excalidraw.md"
+    "_resource/Excalidraw/Drawing 2023-02-21 10.43.52.excalidraw.md"
   ]
 }
