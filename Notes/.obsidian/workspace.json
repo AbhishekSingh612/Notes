@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c931328612d338d4",
+        "id": "104b7dde4f12dca7",
         "type": "tabs",
-        "dimension": 71.85405807892778,
         "children": [
           {
-            "id": "8ad7dc1cb1360782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "273c38c39f07c0c3",
-        "type": "tabs",
-        "dimension": 28.145941921072225,
-        "children": [
-          {
-            "id": "04a279a26e25acff",
+            "id": "34fcc883d583afa4",
             "type": "leaf",
             "state": {
               "type": "make-folder-view",
               "state": {
                 "type": "folder",
-                "folder": "DSA"
+                "folder": "DSA/5. Merge Intervals"
               }
             }
           }
@@ -113,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -177,17 +153,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8ad7dc1cb1360782",
+  "active": "34fcc883d583afa4",
   "lastOpenFiles": [
+    "_resource/Excalidraw/Pasted image 20230220221214.png",
+    "_resources/Exali.md",
     "DSA/5. Merge Intervals/Problems/1. Merge Intervals.md",
-    "Excalidraw/Drawing 2023-02-20 22.05.10.excalidraw.md",
-    "Java/1. Core Java/Inheritance.md",
-    "Java/1. Core Java/Abstraction.md",
-    "Java/1. Core Java/Class.md",
-    "Java/1. Core Java/Objects.md",
-    "Java/1. Core Java/OOPS.md",
-    "_resource/_images/Pasted image 20230122183516.png",
-    "_resource/_images/mergeintervals.png",
-    "DSA/Untitled.md"
+    "DSA/5. Merge Intervals/Problems/2. Meeting Rooms II.md",
+    "_resource/Excalidraw/Drawing 2023-02-21 19.07.13.excalidraw.md",
+    "_resource/Excalidraw/Drawing 2023-01-22 18.28.37.excalidraw.md",
+    "_resource/Excalidraw/Drawing 2023-02-21 10.43.52.excalidraw.md",
+    "_resource/Excalidraw/Drawing 2023-02-20 22.05.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-21 19.06.24.excalidraw.md",
+    "_resource/_images/Pasted image 20230221110223.png"
   ]
 }
