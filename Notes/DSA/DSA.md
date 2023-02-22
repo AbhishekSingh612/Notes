@@ -211,6 +211,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 
 **Greedy**  
 [ABCs-of-Greedy](https://leetcode.com/discuss/general-discussion/1061059/ABCs-of-Greedy)
+- Greedy algorithm can usually be [proved by contradiction](https://en.wikipedia.org/wiki/Proof_by_contradiction), as what I did in this post.
 
 **Backtracking**  
 [Backtrack-Summary:-General-Solution-for-10-Questionsh](https://leetcode.com/problems/permutations/discuss/18284/Backtrack-Summary:-General-Solution-for-10-Questionsh)
