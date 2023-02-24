@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Lambda.md",
-                "mode": "preview",
+                "file": "DSA/5. Merge Intervals/Problems/7. Employee Free Time.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Lambda.md",
+                "file": "DSA/5. Merge Intervals/Problems/7. Employee Free Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Lambda.md",
+                "file": "DSA/5. Merge Intervals/Problems/7. Employee Free Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS Lambda.md"
+                "file": "DSA/5. Merge Intervals/Problems/7. Employee Free Time.md"
               }
             }
           }
@@ -160,15 +160,16 @@
   },
   "active": "a5a0c145e7f6c523",
   "lastOpenFiles": [
-    "AWS/LocalStack - Mock AWS Service locally.md",
-    "DSA/5. Merge Intervals/Problems/7. Employee Free Time.md",
     "DSA/5. Merge Intervals/Problems/6. Car Pooling.md",
     "DSA/5. Merge Intervals/Problems/5. Meeting Rooms II.md",
-    "DSA/5. Merge Intervals/Untitled.md",
     "DSA/5. Merge Intervals/Problems/4. Meeting Room I.md",
     "DSA/5. Merge Intervals/Problems/3. Interval List Intersections.md",
     "DSA/5. Merge Intervals/Problems/2. Insert Intervals.md",
     "DSA/5. Merge Intervals/Problems/1. Merge Intervals.md",
+    "DSA/5. Merge Intervals/Problems/7. Employee Free Time.md",
+    "AWS/AWS Lambda.md",
+    "AWS/LocalStack - Mock AWS Service locally.md",
+    "DSA/5. Merge Intervals/Untitled.md",
     "_resource/Excalidraw/example.png",
     "_resource/Excalidraw/Drawing 2023-02-21 21.00.03.excalidraw.md",
     "_resource/Excalidraw/Drawing 2023-02-21 19.34.01.excalidraw.md"
