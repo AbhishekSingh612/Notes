@@ -17,6 +17,7 @@
 - [x] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 
+
 ### [[2. Islands(Matrix Traversal)]]
 - [ ] https://leetcode.com/problems/number-of-islands/ (Blind)
 - [ ] https://leetcode.com/problems/max-area-of-island/
@@ -224,3 +225,6 @@
 
 **Graph Algorithms in Python**  
 [Python-Graph-Algorithms-One-Place-for-quick-revision](https://leetcode.com/discuss/general-discussion/971272/Python-Graph-Algorithms-One-Place-for-quick-revision)
+
+
+[1. Two Pointers]:1.%20Two%20Pointers/1.%20Two%20Pointers.md
