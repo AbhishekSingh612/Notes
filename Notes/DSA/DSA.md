@@ -228,3 +228,20 @@
 
 
 [1. Two Pointers]:1.%20Two%20Pointers/1.%20Two%20Pointers.md
+[2. Islands(Matrix Traversal)]:2.%20Islands(Matrix%20Traversal)/2.%20Islands(Matrix%20Traversal).md
+[3. Fast & Slow pointers]:3.%20Fast%20&%20Slow%20pointers/3.%20Fast%20&%20Slow%20pointers.md
+[4. Sliding Window]:4.%20Sliding%20Window/4.%20Sliding%20Window.md
+[5. Merge Intervals]:5.%20Merge%20Intervals/5.%20Merge%20Intervals.md
+[6. Cyclic Sort]:6.%20Cyclic%20Sort/6.%20Cyclic%20Sort.md
+[7. In-place Reversal of a LinkedList]:7.%20In-place%20Reversal%20of%20a%20LinkedList/7.%20In-place%20Reversal%20of%20a%20LinkedList.md
+[8. Tree Breadth First Search]:8.%20Tree%20Breadth%20First%20Search/8.%20Tree%20Breadth%20First%20Search.md
+[9. Tree Depth First Search]:9.%20Tree%20Depth%20First%20Search/9.%20Tree%20Depth%20First%20Search.md
+[10. Two Heaps]:10.%20Two%20Heaps/10.%20Two%20Heaps.md
+[11. Subsets]:11.%20Subsets/11.%20Subsets.md
+[12. Modified Binary Search]:12.%20Modified%20Binary%20Search/12.%20Modified%20Binary%20Search.md
+[13. Bitwise XOR]:13. Bitwise%20XOR/13.%20Bitwise%20XOR.md
+[14. Top 'K' elements]:14.%20Top%20'K'%20elements/14.%20Top%20'K'%20elements.md
+[15. K-way merge]:15.%20K-way%20merge/15.%20K-way%20merge.md
+[16. 0/1 Knapsack (Dynamic Programming)]:16.%200/1%20Knapsack%20(Dynamic%20Programming)/16.%200/1%20Knapsack%20(Dynamic%20Programming).md
+[17. Topological Sort (Graph)]:17.%20Topological%20Sort%20(Graph)/17.%20Topological%20Sort%20(Graph).md
+[18. Multi-threaded]:18.%20Multi-threaded/18.%20Multi-threaded.md
