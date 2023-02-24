@@ -239,7 +239,7 @@
 [10. Two Heaps]:10.%20Two%20Heaps/10.%20Two%20Heaps.md
 [11. Subsets]:11.%20Subsets/11.%20Subsets.md
 [12. Modified Binary Search]:12.%20Modified%20Binary%20Search/12.%20Modified%20Binary%20Search.md
-[13. Bitwise XOR]:13. Bitwise%20XOR/13.%20Bitwise%20XOR.md
+[13. Bitwise XOR]:13.%20Bitwise%20XOR/13.%20Bitwise%20XOR.md
 [14. Top 'K' elements]:14.%20Top%20'K'%20elements/14.%20Top%20'K'%20elements.md
 [15. K-way merge]:15.%20K-way%20merge/15.%20K-way%20merge.md
 [16. 0/1 Knapsack (Dynamic Programming)]:16.%200/1%20Knapsack%20(Dynamic%20Programming)/16.%200/1%20Knapsack%20(Dynamic%20Programming).md
