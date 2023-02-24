@@ -1,7 +1,20 @@
 
 ## Patterns 
 
-[Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+[Details on these Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
+| | |
+|---|---|
+|[[1. Two Pointers]]✅|[[10. Two Heaps]]|
+|[[2. Islands(Matrix Traversal)]]|[[11. Subsets]]|
+|[[3. Fast & Slow pointers]]|[[12. Modified Binary Search]]|
+|[[4. Sliding Window]]✅|[[13. Bitwise XOR]]|
+|[[5. Merge Intervals]]✅|[[14. Top 'K' elements]]|
+|[[6. Cyclic Sort]]|[[15. K-way merge]]|
+|[[7. In-place Reversal of a LinkedList]]|[[16. 0/1 Knapsack (Dynamic Programming)]]|
+|[[8. Tree Breadth First Search]]|[[17. Topological Sort (Graph)]]|
+|[[9. Tree Depth First Search]]|[[18. Multi-threaded]]|
+
 
 ### [[1. Two Pointers]] ✅
 - [x] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
