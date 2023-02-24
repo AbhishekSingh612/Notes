@@ -1,11 +1,9 @@
-You can access premium question on lintcode.com
 
-## Patterns
-https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+## Patterns 
 
-## Problems
+[Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
-### 1. Two Pointers
+### [[1. Two Pointers]] ✅
 - [x] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 - [x] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 - [x] https://leetcode.com/problems/squares-of-a-sorted-array/
@@ -19,7 +17,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [x] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 
-### 2. Islands(Matrix Traversal)
+### [[2. Islands(Matrix Traversal)]]
 - [ ] https://leetcode.com/problems/number-of-islands/ (Blind)
 - [ ] https://leetcode.com/problems/max-area-of-island/
 - [ ] https://leetcode.com/problems/flood-fill/
@@ -38,7 +36,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/reorder-list/ (Blind)
 - [ ] https://leetcode.com/problems/circular-array-loop/
 
-### 4. [[Sliding Window Algorithm]]
+### [[4. Sliding Window]] ✅
 
 - [x] https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 (Blind)
 - [x] https://leetcode.com/problems/minimum-size-subarray-sum/
@@ -52,7 +50,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [x] https://leetcode.com/problems/minimum-window-substring/ (Blind)
 - [x] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
-### 5. Merge Intervals
+### [[5. Merge Intervals]] ✅
 - [ ] https://leetcode.com/problems/merge-intervals/ (Blind)
 - [ ] https://leetcode.com/problems/insert-interval/ (Blind)
 - [ ] https://leetcode.com/problems/interval-list-intersections/
