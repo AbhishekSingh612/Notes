@@ -73,7 +73,7 @@
 - [ ] https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 - [ ] https://leetcode.com/problems/employee-free-time/
 
-### 6. Cyclic Sort
+### [[6. Cyclic Sort]]
 
 - Couldn't find Cyclic Sort
 - [ ] https://leetcode.com/problems/missing-number/ (Blind)
