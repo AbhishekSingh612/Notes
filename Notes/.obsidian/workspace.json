@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c35d4ddde67fa0b",
+            "id": "0c8cbd1d21a077aa",
             "type": "leaf",
             "state": {
               "type": "make-folder-view",
               "state": {
                 "type": "folder",
-                "folder": "DSA"
+                "folder": "DSA/6. Cyclic Sort"
               }
             }
           }
@@ -153,8 +153,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "5c35d4ddde67fa0b",
+  "active": "0c8cbd1d21a077aa",
   "lastOpenFiles": [
+    "DSA/6. Cyclic Sort/Problems/9. Kth Missing Positive Number.md",
+    "DSA/6. Cyclic Sort/Problems/8. First Missing Positive.md",
+    "DSA/6. Cyclic Sort/Problems/7. Set Mismatch.md",
+    "DSA/6. Cyclic Sort/Problems/6. Find All Duplicates in an Array.md",
+    "DSA/6. Cyclic Sort/Problems/4. Find the Duplicate Number.md",
+    "DSA/6. Cyclic Sort/Problems/3. Find All Numbers Disappeared in an Array.md",
+    "DSA/6. Cyclic Sort/Problems/2. Missing Number.md",
+    "DSA/6. Cyclic Sort/Problems",
+    "DSA/6. Cyclic Sort/Untitled.md",
     "DSA/6. Cyclic Sort/6. Cyclic Sort.md",
     "6. Cyclic Sort.md",
     "DSA/6. Cyclic Sort",
@@ -174,9 +183,6 @@
     "DSA/5. Merge Intervals/Problems/4. Meeting Room I.md",
     "DSA/5. Merge Intervals/Problems/2. Insert Intervals.md",
     "AWS/AWS Lambda.md",
-    "AWS/LocalStack - Mock AWS Service locally.md",
-    "_resource/Excalidraw/example.png",
-    "_resource/Excalidraw/Drawing 2023-02-21 21.00.03.excalidraw.md",
-    "_resource/Excalidraw/Drawing 2023-02-21 19.34.01.excalidraw.md"
+    "_resource/Excalidraw/example.png"
   ]
 }
