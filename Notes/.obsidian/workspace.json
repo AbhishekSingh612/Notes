@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1ef841bcd4ef787c",
+        "id": "8e4ebeecf92f23b7",
         "type": "tabs",
         "children": [
           {
-            "id": "0c8cbd1d21a077aa",
+            "id": "bc19f87a8569c506",
             "type": "leaf",
             "state": {
               "type": "make-folder-view",
               "state": {
                 "type": "folder",
-                "folder": "DSA/6. Cyclic Sort"
+                "folder": "DSA"
               }
             }
           }
@@ -153,18 +153,22 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0c8cbd1d21a077aa",
+  "active": "bc19f87a8569c506",
   "lastOpenFiles": [
+    "DSA/10. Two Heaps/10. Two Heaps.md",
+    "DSA/10. Two Heaps",
+    "DSA/Untitled.md",
     "DSA/6. Cyclic Sort/Problems/9. Kth Missing Positive Number.md",
-    "DSA/6. Cyclic Sort/Problems/8. First Missing Positive.md",
-    "DSA/6. Cyclic Sort/Problems/7. Set Mismatch.md",
-    "DSA/6. Cyclic Sort/Problems/6. Find All Duplicates in an Array.md",
-    "DSA/6. Cyclic Sort/Problems/4. Find the Duplicate Number.md",
-    "DSA/6. Cyclic Sort/Problems/3. Find All Numbers Disappeared in an Array.md",
     "DSA/6. Cyclic Sort/Problems/2. Missing Number.md",
+    "DSA/6. Cyclic Sort/Problems/4. Find the Duplicate Number.md",
+    "DSA/6. Cyclic Sort/Problems/6. Find All Duplicates in an Array.md",
+    "DSA/6. Cyclic Sort/Problems/10. Couples Holding Hands.md",
+    "DSA/6. Cyclic Sort/Problems/8. First Missing Positive.md",
+    "DSA/6. Cyclic Sort/6. Cyclic Sort.md",
+    "DSA/6. Cyclic Sort/Problems/7. Set Mismatch.md",
+    "DSA/6. Cyclic Sort/Problems/3. Find All Numbers Disappeared in an Array.md",
     "DSA/6. Cyclic Sort/Problems",
     "DSA/6. Cyclic Sort/Untitled.md",
-    "DSA/6. Cyclic Sort/6. Cyclic Sort.md",
     "6. Cyclic Sort.md",
     "DSA/6. Cyclic Sort",
     "DSA/2. Islands(Matrix Traversal)/2. Islands(Matrix Traversal).md",
@@ -180,9 +184,6 @@
     "DSA/5. Merge Intervals/Problems/7. Employee Free Time.md",
     "DSA/5. Merge Intervals/Problems/6. Car Pooling.md",
     "DSA/5. Merge Intervals/Problems/5. Meeting Rooms II.md",
-    "DSA/5. Merge Intervals/Problems/4. Meeting Room I.md",
-    "DSA/5. Merge Intervals/Problems/2. Insert Intervals.md",
-    "AWS/AWS Lambda.md",
     "_resource/Excalidraw/example.png"
   ]
 }

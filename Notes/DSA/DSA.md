@@ -10,7 +10,7 @@
 |[[3. Fast & Slow pointers]]|[[12. Modified Binary Search]]|
 |[[4. Sliding Window]]✅|[[13. Bitwise XOR]]|
 |[[5. Merge Intervals]]✅|[[14. Top 'K' elements]]|
-|[[6. Cyclic Sort]]|[[15. K-way merge]]|
+|[[6. Cyclic Sort]]✅|[[15. K-way merge]]|
 |[[7. In-place Reversal of a LinkedList]]|[[16. 0/1 Knapsack (Dynamic Programming)]]|
 |[[8. Tree Breadth First Search]]|[[17. Topological Sort (Graph)]]|
 |[[9. Tree Depth First Search]]|[[18. Multi-threaded]]|
@@ -73,7 +73,7 @@
 - [ ] https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 - [ ] https://leetcode.com/problems/employee-free-time/
 
-### [[6. Cyclic Sort]]
+### [[6. Cyclic Sort]] ✅
 
 - Couldn't find Cyclic Sort
 - [ ] https://leetcode.com/problems/missing-number/ (Blind)
@@ -112,7 +112,7 @@
 - [ ] https://leetcode.com/problems/diameter-of-binary-tree/
 - [ ] https://leetcode.com/problems/binary-tree-maximum-path-sum/ (Blind)
 
-### 10. Two Heaps
+### [[10. Two Heaps]]
 - [ ] https://leetcode.com/problems/find-median-from-data-stream/ (Blind)
 - [ ] https://leetcode.com/problems/sliding-window-median/
 - [ ] https://leetcode.com/problems/ipo/
