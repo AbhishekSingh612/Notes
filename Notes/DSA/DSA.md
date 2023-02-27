@@ -215,6 +215,9 @@
 **K-th smallest**  
 [summary-of-solutions-for-problems-reducible-to-leetcode-378](https://leetcode.com/problems/k-th-smallest-prime-fraction/discuss/115819/summary-of-solutions-for-problems-reducible-to-leetcode-378)
 
+**Heap**
+[Master HEAP: Understanding 4 patterns where HEAP data structure is used](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-pattern-categories)
+
 **Prefix Sum**  
 [prefix-sum-problems](https://leetcode.com/discuss/general-discussion/563022/prefix-sum-problems)
 

@@ -14,7 +14,7 @@
               "type": "make-folder-view",
               "state": {
                 "type": "folder",
-                "folder": "DSA"
+                "folder": "DSA/4. Sliding Window"
               }
             }
           }
@@ -155,6 +155,8 @@
   },
   "active": "bc19f87a8569c506",
   "lastOpenFiles": [
+    "DSA/10. Two Heaps/Problems/Problems.md",
+    "DSA/10. Two Heaps/Problems",
     "DSA/10. Two Heaps/10. Two Heaps.md",
     "DSA/10. Two Heaps",
     "DSA/Untitled.md",
@@ -183,7 +185,6 @@
     "DSA/5. Merge Intervals/Problems/1. Merge Intervals.md",
     "DSA/5. Merge Intervals/Problems/7. Employee Free Time.md",
     "DSA/5. Merge Intervals/Problems/6. Car Pooling.md",
-    "DSA/5. Merge Intervals/Problems/5. Meeting Rooms II.md",
     "_resource/Excalidraw/example.png"
   ]
 }
