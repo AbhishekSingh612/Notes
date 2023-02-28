@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-|[[1. Two Pointers]]✅|[[10. Two Heaps]]|
+|[[1. Two Pointers]]✅|[[10. Two Heaps]]✅|
 |[[2. Islands(Matrix Traversal)]]|[[11. Subsets]]|
 |[[3. Fast & Slow pointers]]|[[12. Modified Binary Search]]|
 |[[4. Sliding Window]]✅|[[13. Bitwise XOR]]|
@@ -112,7 +112,7 @@
 - [ ] https://leetcode.com/problems/diameter-of-binary-tree/
 - [ ] https://leetcode.com/problems/binary-tree-maximum-path-sum/ (Blind)
 
-### [[10. Two Heaps]]
+### [[10. Two Heaps]] ✅
 - [ ] https://leetcode.com/problems/find-median-from-data-stream/ (Blind)
 - [ ] https://leetcode.com/problems/sliding-window-median/
 - [ ] https://leetcode.com/problems/ipo/

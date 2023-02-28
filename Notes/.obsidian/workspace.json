@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e4ebeecf92f23b7",
+        "id": "b75bb5de5217a853",
         "type": "tabs",
         "children": [
           {
-            "id": "bc19f87a8569c506",
+            "id": "27b37bb2a99b3bf6",
             "type": "leaf",
             "state": {
               "type": "make-folder-view",
               "state": {
                 "type": "folder",
-                "folder": "DSA/10. Two Heaps"
+                "folder": "DSA"
               }
             }
           }
@@ -153,15 +153,15 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "bc19f87a8569c506",
+  "active": "27b37bb2a99b3bf6",
   "lastOpenFiles": [
+    "DSA/10. Two Heaps/10. Two Heaps.md",
     "DSA/10. Two Heaps/Problems/4. Find Right Interval.md",
-    "DSA/10. Two Heaps/Problems/3. Ipo.md",
+    "DSA/10. Two Heaps/Problems/3. IPO.md",
     "DSA/10. Two Heaps/Problems/2. Sliding Window Median.md",
-    "DSA/10. Two Heaps/Problems/1. Find Median From Data Stream.md",
+    "DSA/10. Two Heaps/Problems/1. Find Median from Data Stream.md",
     "DSA/10. Two Heaps/Problems/Problems.md",
     "DSA/10. Two Heaps/Problems",
-    "DSA/10. Two Heaps/10. Two Heaps.md",
     "DSA/10. Two Heaps",
     "DSA/Untitled.md",
     "DSA/6. Cyclic Sort/Problems/9. Kth Missing Positive Number.md",
