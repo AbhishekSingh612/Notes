@@ -11,10 +11,11 @@
             "id": "27b37bb2a99b3bf6",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "type": "folder",
-                "folder": "DSA/6. Cyclic Sort"
+                "file": "DSA/1. Two Pointers/Problems/12. Next Permutation.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/1. Two Pointers/Problems/12. Next Permutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/1. Two Pointers/Problems/12. Next Permutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/1. Two Pointers/Problems/12. Next Permutation.md"
+              }
             }
           }
         ],
@@ -155,6 +160,7 @@
   },
   "active": "27b37bb2a99b3bf6",
   "lastOpenFiles": [
+    "DSA/1. Two Pointers/Problems/12. Next Permutation.md",
     "DSA/10. Two Heaps/10. Two Heaps.md",
     "DSA/10. Two Heaps/Problems/4. Find Right Interval.md",
     "DSA/10. Two Heaps/Problems/3. IPO.md",
@@ -184,7 +190,6 @@
     "Sliding Window Algorithm.md",
     "DSA/5. Merge Intervals/Problems/9. Minimum Number of Arrows to Burst Balloons.md",
     "DSA/5. Merge Intervals/Problems/8. Non-overlapping Intervals.md",
-    "_resource/Excalidraw/Drawing 2023-02-24 17.17.45.excalidraw.md",
     "_resource/Excalidraw/example.png"
   ]
 }
