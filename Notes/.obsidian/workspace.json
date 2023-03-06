@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b75bb5de5217a853",
+        "id": "87bffb4969bc814e",
         "type": "tabs",
         "children": [
           {
-            "id": "27b37bb2a99b3bf6",
+            "id": "20e603e702663deb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/12. Next Permutation.md",
-                "mode": "preview",
-                "source": false
+                "type": "folder",
+                "folder": "DSA"
               }
             }
           }
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/12. Next Permutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/1. Two Pointers/Problems/12. Next Permutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/1. Two Pointers/Problems/12. Next Permutation.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,8 +153,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "27b37bb2a99b3bf6",
+  "active": "20e603e702663deb",
   "lastOpenFiles": [
+    "DSA/6. Cyclic Sort/Problems/10. Couples Holding Hands.md",
+    "DSA/6. Cyclic Sort/Problems/9. Kth Missing Positive Number.md",
     "DSA/1. Two Pointers/Problems/12. Next Permutation.md",
     "DSA/10. Two Heaps/10. Two Heaps.md",
     "DSA/10. Two Heaps/Problems/4. Find Right Interval.md",
@@ -170,11 +167,9 @@
     "DSA/10. Two Heaps/Problems",
     "DSA/10. Two Heaps",
     "DSA/Untitled.md",
-    "DSA/6. Cyclic Sort/Problems/9. Kth Missing Positive Number.md",
     "DSA/6. Cyclic Sort/Problems/2. Missing Number.md",
     "DSA/6. Cyclic Sort/Problems/4. Find the Duplicate Number.md",
     "DSA/6. Cyclic Sort/Problems/6. Find All Duplicates in an Array.md",
-    "DSA/6. Cyclic Sort/Problems/10. Couples Holding Hands.md",
     "DSA/6. Cyclic Sort/Problems/8. First Missing Positive.md",
     "DSA/6. Cyclic Sort/6. Cyclic Sort.md",
     "DSA/6. Cyclic Sort/Problems/7. Set Mismatch.md",
