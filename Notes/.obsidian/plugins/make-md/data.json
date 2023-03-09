@@ -37,7 +37,9 @@
       "DSA/2. Islands(Matrix Traversal)",
       "DSA/6. Cyclic Sort/Problems",
       "DSA/10. Two Heaps/Problems",
-      "DSA/1. Two Pointers/Problems"
+      "DSA/1. Two Pointers/Problems",
+      "DSA/3. Fast & Slow pointers",
+      "_resource"
     ]
   },
   "expandedSpaces": [
