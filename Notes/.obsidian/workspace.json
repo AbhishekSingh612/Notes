@@ -11,10 +11,11 @@
             "id": "9f4b69678eacfb72",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "type": "folder",
-                "folder": "DSA/3. Fast & Slow pointers"
+                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md"
+              }
             }
           }
         ],
@@ -155,8 +160,9 @@
   },
   "active": "9f4b69678eacfb72",
   "lastOpenFiles": [
-    "DSA/3. Fast & Slow pointers/1. Linked List Cycle.md",
-    "DSA/3. Fast & Slow pointers/2. Linked List Cycle II.md",
+    "DSA/3. Fast & Slow pointers/Problems/1. Linked List Cycle.md",
+    "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
+    "DSA/3. Fast & Slow pointers/Problems",
     "_resource/_images/Pasted image 20230312003221.png",
     "_resource/_images/Pasted image 20230312003206.png",
     "_resource/Excalidraw/Drawing 2023-03-12 00.29.24.excalidraw.md",
