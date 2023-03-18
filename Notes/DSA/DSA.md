@@ -41,7 +41,7 @@
 - [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/
 
 
-### 3. Fast & Slow pointers
+### [[3. Fast & Slow pointers]]
 - [ ] https://leetcode.com/problems/linked-list-cycle/ (Blind)
 - [ ] https://leetcode.com/problems/linked-list-cycle-ii/
 - [ ] https://leetcode.com/problems/happy-number/

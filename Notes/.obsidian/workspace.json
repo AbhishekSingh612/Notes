@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b707426be80c6ea5",
+        "id": "bd3872c840dc0fde",
         "type": "tabs",
         "children": [
           {
-            "id": "9f4b69678eacfb72",
+            "id": "834a8218c5ea107c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
-                "mode": "source",
-                "source": false
+                "type": "folder",
+                "folder": "DSA/17. Trie"
               }
             }
           }
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,10 +153,24 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9f4b69678eacfb72",
+  "active": "834a8218c5ea107c",
   "lastOpenFiles": [
-    "DSA/3. Fast & Slow pointers/Problems/1. Linked List Cycle.md",
+    "DSA/17. Trie/17. Trie.md",
+    "DSA/10. Two Heaps/Problems/4. Maximum Subsequence Score.md",
+    "DSA/17. Trie",
+    "DSA/10. Two Heaps/Problems/3. IPO.md",
+    "DSA/10. Two Heaps/Problems/5. Find Right Interval.md",
+    "DSA/10. Two Heaps/Problems/1. Find Median from Data Stream.md",
+    "DSA/10. Two Heaps/Problems/2. Sliding Window Median.md",
+    "DSA/3. Fast & Slow pointers/Problems/3. Find the Duplicate Number.md",
     "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
+    "DSA/3. Fast & Slow pointers/3. Fast & Slow pointers.md",
+    "DSA/3. Fast & Slow pointers/Problems/8. Circular Array Loopp.md",
+    "DSA/3. Fast & Slow pointers/Problems/7. Reorder List.md",
+    "DSA/3. Fast & Slow pointers/Problems/6. Palindrome Linked List.md",
+    "DSA/3. Fast & Slow pointers/Problems/5. Middle of the Linked List.md",
+    "DSA/3. Fast & Slow pointers/Problems/4. Happy Number.md",
+    "DSA/3. Fast & Slow pointers/Problems/1. Linked List Cycle.md",
     "DSA/3. Fast & Slow pointers/Problems",
     "_resource/_images/Pasted image 20230312003221.png",
     "_resource/_images/Pasted image 20230312003206.png",
@@ -177,22 +186,10 @@
     "_resource/Excalidraw/Drawing 2023-03-09 19.29.39.excalidraw.md",
     "_resource/_images/Pasted image 20230309193822.png",
     "_resource/Excalidraw/Drawing 2023-03-09 19.41.23.excalidraw.md",
-    "DSA/3. Fast & Slow pointers/3. Fast & Slow pointers.md",
     "DSA/3. Fast & Slow pointers",
     "DSA/6. Cyclic Sort/Problems/10. Couples Holding Hands.md",
-    "DSA/6. Cyclic Sort/Problems/9. Kth Missing Positive Number.md",
-    "DSA/1. Two Pointers/Problems/12. Next Permutation.md",
-    "DSA/10. Two Heaps/10. Two Heaps.md",
-    "DSA/10. Two Heaps/Problems/4. Find Right Interval.md",
-    "DSA/10. Two Heaps/Problems/3. IPO.md",
-    "DSA/10. Two Heaps/Problems/2. Sliding Window Median.md",
-    "DSA/10. Two Heaps/Problems/1. Find Median from Data Stream.md",
-    "DSA/10. Two Heaps/Problems/Problems.md",
     "DSA/10. Two Heaps/Problems",
     "DSA/10. Two Heaps",
-    "DSA/Untitled.md",
-    "DSA/6. Cyclic Sort/Problems/2. Missing Number.md",
-    "DSA/6. Cyclic Sort/Problems/4. Find the Duplicate Number.md",
     "DSA/6. Cyclic Sort/Problems",
     "DSA/6. Cyclic Sort",
     "_resource/Excalidraw/example.png"
