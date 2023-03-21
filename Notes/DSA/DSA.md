@@ -7,7 +7,7 @@
 |---|---|
 |[[1. Two Pointers]]✅|[[10. Two Heaps]]✅|
 |[[2. Islands(Matrix Traversal)]]|[[11. Subsets]]|
-|[[3. Fast & Slow pointers]]|[[12. Modified Binary Search]]|
+|[[3. Fast & Slow pointers]]✅|[[12. Modified Binary Search]]|
 |[[4. Sliding Window]]✅|[[13. Bitwise XOR]]|
 |[[5. Merge Intervals]]✅|[[14. Top 'K' elements]]|
 |[[6. Cyclic Sort]]✅|[[15. K-way merge]]|
@@ -42,12 +42,12 @@
 
 
 ### [[3. Fast & Slow pointers]]
-- [ ] https://leetcode.com/problems/linked-list-cycle/ (Blind)
-- [ ] https://leetcode.com/problems/linked-list-cycle-ii/
-- [ ] https://leetcode.com/problems/happy-number/
-- [ ] https://leetcode.com/problems/middle-of-the-linked-list/
-- [ ] https://leetcode.com/problems/palindrome-linked-list/
-- [ ] https://leetcode.com/problems/reorder-list/ (Blind)
+- [x] https://leetcode.com/problems/linked-list-cycle/ (Blind)
+- [x] https://leetcode.com/problems/linked-list-cycle-ii/
+- [x] https://leetcode.com/problems/happy-number/
+- [x] https://leetcode.com/problems/middle-of-the-linked-list/
+- [x] https://leetcode.com/problems/palindrome-linked-list/
+- [x] https://leetcode.com/problems/reorder-list/ (Blind)
 - [ ] https://leetcode.com/problems/circular-array-loop/
 
 ### [[4. Sliding Window]] ✅

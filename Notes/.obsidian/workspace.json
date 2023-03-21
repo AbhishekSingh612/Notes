@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bd3872c840dc0fde",
+        "id": "9e4fe5c14a86715b",
         "type": "tabs",
         "children": [
           {
-            "id": "834a8218c5ea107c",
+            "id": "4fd8e222e6d2382f",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "type": "folder",
-                "folder": "DSA/17. Trie"
+                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md"
+              }
             }
           }
         ],
@@ -153,8 +158,19 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "834a8218c5ea107c",
+  "active": "4fd8e222e6d2382f",
   "lastOpenFiles": [
+    "DSA/3. Fast & Slow pointers/Problems/3. Find the Duplicate Number.md",
+    "DSA/3. Fast & Slow pointers/Problems/7. Reorder List.md",
+    "DSA/3. Fast & Slow pointers/Problems/4. Happy Number.md",
+    "DSA/3. Fast & Slow pointers/Problems/5. Middle of the Linked List.md",
+    "DSA/3. Fast & Slow pointers/Problems/6. Palindrome Linked List.md",
+    "DSA/3. Fast & Slow pointers/Problems/8. Circular Array Loopp.md",
+    "DSA/1. Two Pointers/Practice/3. Number of Zero-Filled Subarrays.md",
+    "DSA/1. Two Pointers/Problems/7. Subarray Product Less Than K.md",
+    "DSA/17. Trie/TechieDeligh/Maximum Occurring Word.md",
+    "DSA/17. Trie/TechieDeligh/TechieDeligh.md",
+    "DSA/17. Trie/TechieDeligh",
     "DSA/17. Trie/17. Trie.md",
     "DSA/10. Two Heaps/Problems/4. Maximum Subsequence Score.md",
     "DSA/17. Trie",
@@ -162,14 +178,8 @@
     "DSA/10. Two Heaps/Problems/5. Find Right Interval.md",
     "DSA/10. Two Heaps/Problems/1. Find Median from Data Stream.md",
     "DSA/10. Two Heaps/Problems/2. Sliding Window Median.md",
-    "DSA/3. Fast & Slow pointers/Problems/3. Find the Duplicate Number.md",
     "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
     "DSA/3. Fast & Slow pointers/3. Fast & Slow pointers.md",
-    "DSA/3. Fast & Slow pointers/Problems/8. Circular Array Loopp.md",
-    "DSA/3. Fast & Slow pointers/Problems/7. Reorder List.md",
-    "DSA/3. Fast & Slow pointers/Problems/6. Palindrome Linked List.md",
-    "DSA/3. Fast & Slow pointers/Problems/5. Middle of the Linked List.md",
-    "DSA/3. Fast & Slow pointers/Problems/4. Happy Number.md",
     "DSA/3. Fast & Slow pointers/Problems/1. Linked List Cycle.md",
     "DSA/3. Fast & Slow pointers/Problems",
     "_resource/_images/Pasted image 20230312003221.png",
@@ -181,13 +191,9 @@
     "DSA/5. Merge Intervals/Problems/2. Insert Intervals.md",
     "DSA/5. Merge Intervals/Problems/1. Merge Intervals.md",
     "DSA/1. Two Pointers/Problems/9. 4Sum.md",
-    "-2,-1,1,2],[-2,0,0,2],[-1,0,0,1.md",
     "_resource/_images/Pasted image 20230309194246.png",
-    "_resource/Excalidraw/Drawing 2023-03-09 19.29.39.excalidraw.md",
     "_resource/_images/Pasted image 20230309193822.png",
-    "_resource/Excalidraw/Drawing 2023-03-09 19.41.23.excalidraw.md",
     "DSA/3. Fast & Slow pointers",
-    "DSA/6. Cyclic Sort/Problems/10. Couples Holding Hands.md",
     "DSA/10. Two Heaps/Problems",
     "DSA/10. Two Heaps",
     "DSA/6. Cyclic Sort/Problems",
