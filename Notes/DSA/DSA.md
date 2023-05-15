@@ -6,7 +6,7 @@
 | | |
 |---|---|
 |[[1. Two Pointers]]✅|[[10. Two Heaps]]✅|
-|[[2. Islands(Matrix Traversal)]]|[[11. Subsets]]|
+|[[2. Islands(Matrix Traversal)]]✅|[[11. Subsets]]|
 |[[3. Fast & Slow pointers]]✅|[[12. Modified Binary Search]]|
 |[[4. Sliding Window]]✅|[[13. Bitwise XOR]]|
 |[[5. Merge Intervals]]✅|[[14. Top 'K' elements]]|
@@ -31,14 +31,14 @@
 
 
 
-### [[2. Islands(Matrix Traversal)]]
-- [ ] https://leetcode.com/problems/number-of-islands/ (Blind)
-- [ ] https://leetcode.com/problems/max-area-of-island/
-- [ ] https://leetcode.com/problems/flood-fill/
-- [ ] https://leetcode.com/problems/number-of-closed-islands/
-- [ ] https://leetcode.com/problems/island-perimeter/
-- [ ] https://leetcode.com/problems/number-of-distinct-islands/
-- [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/
+### [[2. Islands(Matrix Traversal)]]✅
+- [x] https://leetcode.com/problems/number-of-islands/ (Blind)
+- [x] https://leetcode.com/problems/max-area-of-island/
+- [x] https://leetcode.com/problems/flood-fill/
+- [x] https://leetcode.com/problems/number-of-closed-islands/
+- [x] https://leetcode.com/problems/island-perimeter/
+- [x] https://leetcode.com/problems/number-of-distinct-islands/
+- [x] https://leetcode.com/problems/detect-cycles-in-2d-grid/
 
 
 ### [[3. Fast & Slow pointers]]
