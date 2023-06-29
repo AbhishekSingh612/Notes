@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "52aa2bbc761a9404",
+        "id": "9a5d7440ce8fceb5",
         "type": "tabs",
         "children": [
           {
-            "id": "4f3950511bfb458f",
+            "id": "14a625158ec0c1b4",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "type": "folder",
-                "folder": "DSA/1. Two Pointers"
+                "file": "DSA/8. Tree Breadth First Search/Problems/3. Binary Tree Zigzag Level Order Traversal.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,6 +72,14 @@
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "74802e9a59a2ad75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -93,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DSA/8. Tree Breadth First Search/Problems/3. Binary Tree Zigzag Level Order Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA/8. Tree Breadth First Search/Problems/3. Binary Tree Zigzag Level Order Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DSA/8. Tree Breadth First Search/Problems/3. Binary Tree Zigzag Level Order Traversal.md"
+              }
             }
           }
         ],
@@ -153,8 +166,22 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4f3950511bfb458f",
+  "active": "14a625158ec0c1b4",
   "lastOpenFiles": [
+    "DSA/8. Tree Breadth First Search/Problems/3. Binary Tree Zigzag Level Order Traversal.md",
+    "DSA/8. Tree Breadth First Search/Problems/2. Binary Tree Level Order Traversal II.md",
+    "DSA/8. Tree Breadth First Search/Problems/Problems.md",
+    "DSA/8. Tree Breadth First Search/Problems/1. Binary Tree Level Order Traversal.md",
+    "_resource/Excalidraw/Drawing 2023-06-27 15.42.00.excalidraw.md",
+    "DSA/8. Tree Breadth First Search/Problems",
+    "DSA/8. Tree Breadth First Search/8. Tree Breadth First Search.md",
+    "DSA/8. Tree Breadth First Search",
+    "8. Tree Breadth First Search.md",
+    "Java/1. Core Java/Abstraction.md",
+    "Java/1. Core Java/Class.md",
+    "Java/1. Core Java/Objects.md",
+    "Java/1. Core Java/OOPS.md",
+    "Java/1. Core Java/Core Java.md",
     "DSA/1. Two Pointers/Problems/11. Shortest Unsorted Continuous Subarray.md",
     "DSA/2. Islands(Matrix Traversal)/Problems/1. Number Of Islands.md",
     "DSA/2. Islands(Matrix Traversal)/Problems/7. Detect Cycles In 2d Grid.md",
@@ -172,19 +199,7 @@
     "DSA/11. Subsets/Problems",
     "DSA/11. Subsets/11. Subsets.md",
     "DSA/11. Subsets",
-    "DSA/3. Fast & Slow pointers/Problems/2. Linked List Cycle II.md",
-    "DSA/3. Fast & Slow pointers/Problems/3. Find the Duplicate Number.md",
-    "DSA/3. Fast & Slow pointers/Problems/7. Reorder List.md",
-    "DSA/3. Fast & Slow pointers/Problems/4. Happy Number.md",
-    "DSA/3. Fast & Slow pointers/Problems/5. Middle of the Linked List.md",
-    "DSA/3. Fast & Slow pointers/Problems/6. Palindrome Linked List.md",
-    "DSA/3. Fast & Slow pointers/Problems/8. Circular Array Loopp.md",
-    "DSA/1. Two Pointers/Practice/3. Number of Zero-Filled Subarrays.md",
-    "DSA/1. Two Pointers/Problems/7. Subarray Product Less Than K.md",
-    "DSA/17. Trie/TechieDeligh/Maximum Occurring Word.md",
-    "DSA/17. Trie/TechieDeligh/TechieDeligh.md",
     "DSA/17. Trie/TechieDeligh",
-    "DSA/17. Trie/17. Trie.md",
     "DSA/17. Trie",
     "DSA/3. Fast & Slow pointers/Problems",
     "_resource/_images/Pasted image 20230312003221.png",
@@ -193,8 +208,6 @@
     "_resource/_images/Pasted image 20230309193822.png",
     "DSA/3. Fast & Slow pointers",
     "DSA/10. Two Heaps/Problems",
-    "DSA/10. Two Heaps",
-    "DSA/6. Cyclic Sort/Problems",
     "_resource/Excalidraw/example.png"
   ]
 }
