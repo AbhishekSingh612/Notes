@@ -12,7 +12,7 @@
 |[[5. Merge Intervals]]✅|[[14. Top 'K' elements]]|
 |[[6. Cyclic Sort]]✅|[[15. K-way merge]]|
 |[[7. In-place Reversal of a LinkedList]]|[[16. 0/1 Knapsack (Dynamic Programming)]]|
-|[[8. Tree Breadth First Search]]|[[17. Topological Sort (Graph)]]|
+|[[8. Tree Breadth First Search]]✅|[[17. Topological Sort (Graph)]]|
 |[[9. Tree Depth First Search]]|[[18. Multi-threaded]]|
 
 
@@ -65,24 +65,24 @@
 - [x] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
 ### [[5. Merge Intervals]] ✅
-- [ ] https://leetcode.com/problems/merge-intervals/ (Blind)
-- [ ] https://leetcode.com/problems/insert-interval/ (Blind)
-- [ ] https://leetcode.com/problems/interval-list-intersections/
-- [ ] https://leetcode.com/problems/meeting-rooms/ (Blind and Premium)
-- [ ] https://leetcode.com/problems/meeting-rooms-ii/ (Blind and Premium)
-- [ ] https://leetcode.com/problems/maximum-profit-in-job-scheduling/
-- [ ] https://leetcode.com/problems/employee-free-time/
+- [x] https://leetcode.com/problems/merge-intervals/ (Blind)
+- [x] https://leetcode.com/problems/insert-interval/ (Blind)
+- [x] https://leetcode.com/problems/interval-list-intersections/
+- [x] https://leetcode.com/problems/meeting-rooms/ (Blind and Premium)
+- [x] https://leetcode.com/problems/meeting-rooms-ii/ (Blind and Premium)
+- [x] https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+- [x] https://leetcode.com/problems/employee-free-time/
 
 ### [[6. Cyclic Sort]] ✅
 
 - Couldn't find Cyclic Sort
-- [ ] https://leetcode.com/problems/missing-number/ (Blind)
-- [ ] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
-- [ ] https://leetcode.com/problems/find-the-duplicate-number/
-- [ ] https://leetcode.com/problems/find-all-duplicates-in-an-array/
-- [ ] https://leetcode.com/problems/set-mismatch/
-- [ ] https://leetcode.com/problems/first-missing-positive/
-- [ ] https://leetcode.com/problems/kth-missing-positive-number/
+- [x] https://leetcode.com/problems/missing-number/ (Blind)
+- [x] https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+- [x] https://leetcode.com/problems/find-the-duplicate-number/
+- [x] https://leetcode.com/problems/find-all-duplicates-in-an-array/
+- [x] https://leetcode.com/problems/set-mismatch/
+- [x] https://leetcode.com/problems/first-missing-positive/
+- [x] https://leetcode.com/problems/kth-missing-positive-number/
 
 ### 7. In-place Reversal of a LinkedList
 - [ ] https://leetcode.com/problems/reverse-linked-list/ (Blind)
@@ -91,17 +91,17 @@
 - Alternation to previous question
 - [ ] https://leetcode.com/problems/rotate-list/
 
-### 8. Tree Breadth First Search
-- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
-- [ ] https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
-- [ ] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
-- [ ] https://leetcode.com/problems/average-of-levels-in-binary-tree/
-- [ ] https://leetcode.com/problems/minimum-depth-of-binary-tree/
-- [ ] https://leetcode.com/problems/maximum-depth-of-binary-tree/ (Not grokk but Blind)
-- [ ] https://leetcode.com/problems/inorder-successor-in-bst/  (In order instead of level order)
-- [ ] https://leetcode.com/problems/populating-next-right-pointers-in-each-node/  
+### 8. Tree Breadth First Search ✅
+- [x] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
+- [x] https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+- [x] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+- [x] https://leetcode.com/problems/average-of-levels-in-binary-tree/
+- [x] https://leetcode.com/problems/minimum-depth-of-binary-tree/
+- [x] https://leetcode.com/problems/maximum-depth-of-binary-tree/ (Not grokk but Blind)
+- [x] https://leetcode.com/problems/inorder-successor-in-bst/  (In order instead of level order)
+- [x] https://leetcode.com/problems/populating-next-right-pointers-in-each-node/  
 - Alternation to previous question
-- [ ] https://leetcode.com/problems/binary-tree-right-side-view/
+- [x] https://leetcode.com/problems/binary-tree-right-side-view/
 
 ### 9. Tree Depth First Search
 - [ ] https://leetcode.com/problems/path-sum/
