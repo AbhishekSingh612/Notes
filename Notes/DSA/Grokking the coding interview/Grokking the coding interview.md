@@ -91,7 +91,7 @@
 - Alternation to previous question
 - [ ] https://leetcode.com/problems/rotate-list/
 
-### 8. Tree Breadth First Search ✅
+### [[8. Tree Breadth First Search]] ✅
 - [x] https://leetcode.com/problems/binary-tree-level-order-traversal/ (Blind)
 - [x] https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 - [x] https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
@@ -103,20 +103,20 @@
 - Alternation to previous question
 - [x] https://leetcode.com/problems/binary-tree-right-side-view/
 
-### 9. Tree Depth First Search
+### [[9. Tree Depth First Search]]
 - [ ] https://leetcode.com/problems/path-sum/
 - [ ] https://leetcode.com/problems/path-sum-ii/
 - [ ] https://leetcode.com/problems/sum-root-to-leaf-numbers/
 - [ ] https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/
 - [ ] https://leetcode.com/problems/path-sum-iii/
 - [ ] https://leetcode.com/problems/diameter-of-binary-tree/
-- [ ] https://leetcode.com/problems/binary-tree-maximum-path-sum/ (Blind)
+- [ ] https://leetcode.com/problems/binary-tree-maximum-path-sum/ (Blind)**
 
 ### [[10. Two Heaps]] ✅
-- [ ] https://leetcode.com/problems/find-median-from-data-stream/ (Blind)
-- [ ] https://leetcode.com/problems/sliding-window-median/
-- [ ] https://leetcode.com/problems/ipo/
-- [ ] https://leetcode.com/problems/find-right-interval/
+- [x] https://leetcode.com/problems/find-median-from-data-stream/ (Blind)
+- [x] https://leetcode.com/problems/sliding-window-median/
+- [x] https://leetcode.com/problems/ipo/
+- [x] https://leetcode.com/problems/find-right-interval/
 
 ### [[11. Subsets]]
 - [ ] https://leetcode.com/problems/subsets/
